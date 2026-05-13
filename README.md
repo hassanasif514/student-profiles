@@ -8,8 +8,3 @@ Open index.html in any web browser.
 ## Contributors
 - Hassan
 - Shoaib
-
-
-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
-
-public ip address: 3.81.68.18
